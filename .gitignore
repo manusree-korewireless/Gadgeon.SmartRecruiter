@@ -22,7 +22,6 @@ CommonAssemblyInfo.cs
 *.dbschema
 sql/Database/*/sql/*
 logs/
-debug/
 *.deploymentmanifest
 *.jfm
 *.sqlcmdvars
